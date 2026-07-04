@@ -80,6 +80,6 @@ Python/Scapy for offline .pcapng analysis and TLS layer parsing
 TLS 1.2/1.3 handshake structure (Client Hello, Server Hello, Cipher Suites, Key Exchange)
 QUIC protocol fundamentals and Connection ID handling
 DNS resolution and NAT64 address translation in dual-stack networks
-📄 Full report (Word format): Network_Protocol_Analysis_TLS_vs_QUIC (1).docx
+📄 Full report (Word format): Network_Protocol_Analysis_TLS_vs_QUIC.docx
 
 
